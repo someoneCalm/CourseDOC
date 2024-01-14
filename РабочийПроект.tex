@@ -21,25 +21,23 @@
 
 \hline EdgeLine & eline.py & Класс границы области аудио & change position(x) - смена позиции\\ 
 
-\hline TimeLine & tline.py & Класс линии времени & change position(x) - смена позиции, movement(event) - событие перемещения\\ 
+\hline TimeLine & tline.py & Класс линии времени & change position(x) - смена позиции, movement(event) - событие перемещения, set() - смена текста надписи и ее положения\\
 
-\hline TimeLineLabel & tline.py & Класс надписи линии времени & set(x) - смена текста и позиции\\ 
+\hline AudioPlayer & audioplayer.py & Класс для загрузки, воспроизведения и сохранения аудио & open player() - инициализация плеера SDL, close player() - закрытие плеера SDL, pause audio(event) - прекращение воспроизведения, resume audio(event) - восстановление воспроизведения, set time borders(start, end, bload, bplay) - установка границ области, set time(start, end, bplay) -- установка линии времени, load file(chunksize=2048) -- загрузка аудиофайла, save file() -- сохранение аудиофайла, save file where() -- сохранение аудиофайла с выбором имени и расположения, load chunk(chunk, start idnex, end index, play, loops) -- загрузка аудиоданных в буфер для воспроизведения, play chunk(chunk) -- воспроизведения из буфера аудиоданных\\
 
-\hline AudioPlayer & audioplayer.py & Класс для загрузки, воспроизведения и сохранения аудио & open player() - инициализация плеера SDL, closr player() - закрытие плеера SDL, pause audio(event) - прекращение воспроизведения, resume audio(event) - восстановление воспроизведения, set time borders(start, end, bload, bplay) - установка границ области, set time(start, end, bplay) - установка линии времени, load file(chunksize=2048) - загрузка аудиофайла, save file() - сохранение аудиофайла, save file where() - сохранение аудиофайла с выбором имени и расположения, load chunk(chunk, start idnex, end index, play, loops) - загрузка аудиоданных в буфер для воспроизведения, play chunk(chunk) - воспроизведения из буфера аудиоданных\\
+\hline CommandBuff- er & command.py & Класс буфера совершенных над аудиоданными операций & add() -- добавление операции в буфер, clean() -- очищение буфера, move() -- перемещение команд в буфере во избежание переполнения\\ 
 
-\hline CommandBuff- er & command.py & Класс буфера совершенных над аудиоданными операций & clean() - очищение буфера, move() - перемещение команд в буфере во избежание переполнения\\ 
+\hline Command & command.py & Класс команды редактирования аудио & do() -- совершение операции, undo() -- отмена операции\\
 
-\hline Command & command.py & Класс команды редактирования аудио & do() - совершение операции, undo() - отмена операции\\
+\hline CutCommand & audio.py & Наследник класса Command; представляет собой обработку удаления области аудио & do() -- совершение операции, undo() -- отмена операции\\
 
-\hline CutCommand & audio.py & Наследник класса Command; представляет собой обработку удаления области аудио & do() - совершение операции, undo() - отмена операции\\
+\hline PasteCommand & audio.py & Наследник класса Command; представляет собой обработку замены и вставки области в аудио & do() -- совершение операции, undo() -- отмена операции\\
 
-\hline PasteCommand & audio.py & Наследник класса Command; представляет собой обработку замены и вставки области в аудио & do() - совершение операции, undo() - отмена операции\\
+\hline NullifyCom- mand & audio.py & Наследник класса Command; представляет собой обработку обнуления области аудио & do() -- совершение операции, undo() -- отмена операции\\
 
-\hline NullifyCom- mand & audio.py & Наследник класса Command; представляет собой обработку обнуления области аудио & do() - совершение операции, undo() - отмена операции\\
+\hline FadeCommand & audio.py & Наследник класса Command; представляет собой обработку эффекта нарастания и затухания области аудио & do() -- совершение операции, undo() -- отмена операции\\
 
-\hline FadeCommand & audio.py & Наследник класса Command; представляет собой обработку эффекта нарастания и затухания области аудио & do() - совершение операции, undo() - отмена операции\\
-
-\hline VolumeCom- mand & audio.py & Наследник класса Command; представляет собой обработку громкости аудио & do() - совершение операции, undo() - отмена операции
+\hline VolumeCom- mand & audio.py & Наследник класса Command; представляет собой обработку громкости аудио & do() -- совершение операции, undo() -- отмена операции
 \end{xltabular}
 %\renewcommand{\arraystretch}{1.0} % восстановление сетки
 
