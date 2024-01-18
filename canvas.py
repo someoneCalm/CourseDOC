@@ -184,7 +184,8 @@ class ScrollableCanvas(Canvas):
 
             self.bdrawing = True
             average = sum(absolute(self.signals[index])) // len(self.signals[index])
-            self.create_line(xlineposition, 200 - average // 110, xlineposition, 200 + average // 110, width=1, fill="white")
+            self.create_line(xlineposition, 200 - average // 110, xlineposition, 200 + average // 110,
+                             width=1, fill="white")
 
             if xlineposition % 12 == 0:
                 if xlineposition % 60 == 0:

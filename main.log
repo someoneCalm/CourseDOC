@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.12) (preloaded format=xelatex 2024.1.9)  13 JAN 2024 17:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.12) (preloaded format=xelatex 2024.1.9)  17 JAN 2024 08:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -690,12 +690,12 @@ Package caption Info: End \AtBeginDocument code.
 \openout4 = `main.lop'.
 
 
-Overfull \hbox (4.70218pt too wide) in paragraph at lines 93--104
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 92--103
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--104
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
 
  []
 
@@ -745,631 +745,546 @@ File: images/test_image.jpg Graphic file (type bmp)
 [14] [15]
 File: images/diagram_choice.eps Graphic file (type eps)
 <images/diagram_choice.eps>
- [16]) (ТехПроект.tex [17] [18]
+ [16]
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.4.2 Вариант использования «Увеличение/уменьше
+ние
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 85--86
+[]\TU/TimesNewRoman(0)/m/n/14.4 Программа перерисовывает аудиодорожку с большим
+/меньшим
+ []
+
+[17] [18] [19] [20]
+Underfull \hbox (badness 4378) in paragraph at lines 218--219
+[]\TU/TimesNewRoman(0)/m/n/14.4 Предусловие: программа запущена, загружен аудио
+файл формата
+ []
+
+[21]) (ТехПроект.tex [22] [23] [24] [25]
 File: images/diagram_comp.eps Graphic file (type eps)
 <images/diagram_comp.eps>
- [19]
-Overfull \hbox (3.4459pt too wide) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 sampwidth| 
- []
-
-
-Overfull \hbox (3.4248pt too wide) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 compname| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 copy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Numpy.
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Буфер для хранения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 signals
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Numpy.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Буфер для хране-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-\TU/TimesNewRoman(0)/m/n/14.4 ния прочитанных
- []
-
-[20]
-Underfull \hbox (badness 1924) in paragraph at lines 97--97
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Флаг для проверки ак-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Проигрываемый аудио-
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 97--97
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Время начала выбран-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-[]|\TU/TimesNewRoman(0)/m/n/14.4 start
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 97--97
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Индекс начала выбран-
- []
-
-
-Underfull \hbox (badness 6708) in paragraph at lines 97--97
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Индекс конца выбран-
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\TU/TimesNewRoman(0)/m/n/14.4 scrollable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Вспомагательная про-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\TU/TimesNewRoman(0)/m/n/14.4 scrollable
- []
-
-
-Overfull \hbox (1.47495pt too wide) in paragraph at lines 113--113
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Scrollable
- []
-
-
-Overfull \hbox (2.29057pt too wide) in paragraph at lines 135--135
-[]|\TU/TimesNewRoman(0)/m/n/14.4 AudioPla-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Группированные значения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-[]|\TU/TimesNewRoman(0)/m/n/14.4 signals
- []
-
-
-Underfull \hbox (badness 2189) in paragraph at lines 135--135
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Количество пикселей, необ-
- []
-
-
-Underfull \hbox (badness 1107) in paragraph at lines 135--135
-\TU/TimesNewRoman(0)/m/n/14.4 ходимое для отображения 1
- []
-
-[22]
-Underfull \hbox (badness 5607) in paragraph at lines 150--150
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Объект класса
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-[]|\TU/TimesNewRoman(0)/m/n/14.4 start
- []
-
-
-Underfull \hbox (badness 2707) in paragraph at lines 150--150
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Индекс начала
- []
-
-
-Underfull \hbox (badness 1168) in paragraph at lines 150--150
-\TU/TimesNewRoman(0)/m/n/14.4 выбранной об-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Индекс конца
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-\TU/TimesNewRoman(0)/m/n/14.4 выбранной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-\TU/TimesNewRoman(0)/m/n/14.4 области в
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Numpy.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Неизмененный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-\TU/TimesNewRoman(0)/m/n/14.4 фрагмент
- []
-
-[23]) (РабочийПроект.tex [24]
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+File: images/diagram_class.jpg Graphic file (type bmp)
+<images/diagram_class.jpg>
+) (РабочийПроект.tex [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Дополнительные
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 43--43
+Underfull \hbox (badness 4531) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Класс для визуа-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 change lines
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 position(start, end,
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 43--43
+Underfull \hbox (badness 3965) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 xstart, xend, bplay) -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 bend) - перемеще-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ние границ области
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 аудио по нажатию,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 draw(bstart=False,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 bend=False,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 btime=False) - отри-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 совка аудиодорожки,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 change scale(badd)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 - смена масштаба,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 change position(x) -
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 43--43
+Underfull \hbox (badness 1490) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Класс линии вре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 change position(x)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 - смена позиции,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 movement(event) -
  []
 
 
-Overfull \hbox (2.4778pt too wide) in paragraph at lines 43--43
-[]|\TU/TimesNewRoman(0)/m/n/14.4 TimeLineLabel| 
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 событие перемеще-
  []
 
 
-Overfull \hbox (5.50873pt too wide) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 ния, set() - смена
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 текста надписи и ее
+ []
+
+
+Overfull \hbox (5.50873pt too wide) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 audioplayer.py| 
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 43--43
+Underfull \hbox (badness 1199) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Класс для загруз-
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 43--43
+Underfull \hbox (badness 3250) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ки, воспроизведе-
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 43--43
+Underfull \hbox (badness 1152) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ния и сохранения
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 43--43
+Underfull \hbox (badness 5802) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 open player() - ини-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 циализация плеера
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 SDL, closr player() -
+Underfull \hbox (badness 2818) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 SDL, close player() -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 pause audio(event)
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 pause audio(event) -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 - прекращение
+Underfull \hbox (badness 3128) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 прекращение воспро-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 воспроизведения,
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 изведения, resume
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 resume audio(event)
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 audio(event) - вос-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 - восстановление
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 становление воспро-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 воспроизведения,
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 изведения, set time
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 set time borders(start,
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 borders(start, end,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 end, bload, bplay) -
+Underfull \hbox (badness 4193) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 bload, bplay) - уста-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 установка границ
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 set time(start, end,
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 bplay) – установка
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 линии времени, load
  []
 
 
-Underfull \hbox (badness 4328) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 file(chunksize=2048) -
+Underfull \hbox (badness 1028) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 file(chunksize=2048) –
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 загрузка аудиофайла,
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 аудиофайла, save file
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 save file() – сохра-
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 where() - сохранение
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 нение аудиофайла,
  []
 
 
-Underfull \hbox (badness 6927) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 имени и расположе-
+Underfull \hbox (badness 4726) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 хранение аудиофайла
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 43--43
+Underfull \hbox (badness 5260) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 с выбором имени и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 расположения, load
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 chunk(chunk, start
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 loops) – загрузка
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 для воспроизведения,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/14.4 play chunk(chunk) -
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 play chunk(chunk) –
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 воспроизведения из
  []
 
 
-Overfull \hbox (4.35513pt too wide) in paragraph at lines 43--43
+Overfull \hbox (4.35513pt too wide) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 CommandBuff-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Класс буфера
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 43--43
+Underfull \hbox (badness 4792) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 совершенных над
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 аудиоданными
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\TU/TimesNewRoman(0)/m/n/14.4 add() – добавление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 операции в буфер,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 clean() – очищение
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 буфера, move() – пе-
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 ремещение команд в
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 41--41
+\TU/TimesNewRoman(0)/m/n/14.4 буфере во избежание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Класс команды
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 редактирования
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 43--43
+Underfull \hbox (badness 2698) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Наследник класса
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 Command; пред-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ставляет собой
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 обработку уда-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ления области
  []
 
 
-Overfull \hbox (3.82077pt too wide) in paragraph at lines 43--43
+Overfull \hbox (3.82077pt too wide) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 PasteCommand| 
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 43--43
+Underfull \hbox (badness 2698) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Наследник класса
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 Command; пред-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ставляет собой
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 43--43
+Underfull \hbox (badness 1038) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 обработку замены
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 NullifyCom-
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 43--43
+Underfull \hbox (badness 2698) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Наследник класса
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 Command; пред-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ставляет собой
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 обработку обну-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ления области
  []
 
 
-Overfull \hbox (1.41608pt too wide) in paragraph at lines 43--43
+Overfull \hbox (1.41608pt too wide) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 FadeCommand| 
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 43--43
+Underfull \hbox (badness 2698) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Наследник класса
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 Command; пред-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 ставляет собой
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 43--43
+Underfull \hbox (badness 3769) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 обработку эффек-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 та нарастания и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 VolumeCom-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\TU/TimesNewRoman(0)/m/n/14.4 Наследник клас-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 са Command;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 представляет со-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \TU/TimesNewRoman(0)/m/n/14.4 бой обработку
  []
 
-[25] [26] [27]
+[28] [29] [30]
 File: images/test_case1.jpg Graphic file (type bmp)
 <images/test_case1.jpg>
 File: images/test_case2.jpg Graphic file (type bmp)
 <images/test_case2.jpg>
- [28]
-File: images/test_case1.jpg Graphic file (type bmp)
-<images/test_case1.jpg>
+ [31]
+File: images/test_case2.jpg Graphic file (type bmp)
+<images/test_case2.jpg>
 File: images/test_case3.jpg Graphic file (type bmp)
 <images/test_case3.jpg>
- [29]
+ [32]
 File: images/test_case2.jpg Graphic file (type bmp)
 <images/test_case2.jpg>
 File: images/test_case4.jpg Graphic file (type bmp)
 <images/test_case4.jpg>
- [30]
+ [33]
 File: images/test_case5.jpg Graphic file (type bmp)
 <images/test_case5.jpg>
 File: images/test_case6.jpg Graphic file (type bmp)
 <images/test_case6.jpg>
- [31]
+ [34]
 File: images/test_case5.jpg Graphic file (type bmp)
 <images/test_case5.jpg>
 File: images/test_case7.jpg Graphic file (type bmp)
 <images/test_case7.jpg>
- [32]
+ [35]
 File: images/test_case5.jpg Graphic file (type bmp)
 <images/test_case5.jpg>
 File: images/test_case8.jpg Graphic file (type bmp)
 <images/test_case8.jpg>
- [33]
+ [36]
 File: images/test_case5.jpg Graphic file (type bmp)
 <images/test_case5.jpg>
 File: images/test_case9.jpg Graphic file (type bmp)
 <images/test_case9.jpg>
- [34]
+ [37]
 File: images/test_case5.jpg Graphic file (type bmp)
 <images/test_case5.jpg>
 File: images/test_case10.jpg Graphic file (type bmp)
 <images/test_case10.jpg>
- [35]
+ [38]
 File: images/test_case5.jpg Graphic file (type bmp)
 <images/test_case5.jpg>
 File: images/test_case11.jpg Graphic file (type bmp)
 <images/test_case11.jpg>
- [36]
+ [39]
 File: images/test_case11.jpg Graphic file (type bmp)
 <images/test_case11.jpg>
 File: images/test_case2.jpg Graphic file (type bmp)
 <images/test_case2.jpg>
- [37]
+ [40]
 File: images/test_case2.jpg Graphic file (type bmp)
 <images/test_case2.jpg>
 File: images/test_case11.jpg Graphic file (type bmp)
 <images/test_case11.jpg>
- [38]
+ [41]
 File: images/test_case12.jpg Graphic file (type bmp)
 <images/test_case12.jpg>
 File: images/test_case13.jpg Graphic file (type bmp)
 <images/test_case13.jpg>
 )
-(Заключение.tex [39] [40]) (СписокИсточников.tex [41]
+(Заключение.tex [42] [43]) (СписокИсточников.tex [44]
 Underfull \hbox (badness 2245) in paragraph at lines 5--6
 []\TU/TimesNewRoman(0)/m/n/14.4 Лерч А. ”Python для анализа звука”/ Александр Л
 ерч. – Packt
@@ -1381,32 +1296,30 @@ Underfull \hbox (badness 2326) in paragraph at lines 7--8
 CreateSpace
  []
 
-[42]) (Код.tex [43] (D:\Course\MiKTeX\tex/latex/listings\lstlang1.sty
+[45]) (Код.tex [46] (D:\Course\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 4.
 LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
 (Font)              scaled to size 10.07994pt on input line 4.
- (main.py [44] [45] [46] [47] [48] [49] [50]) [51] (audio.py [52] [53] [54] [55
+ (main.py [47] [48] [49] [50] [51] [52] [53]) [54] (audio.py [55] [56] [57] [58
 ])
-[56] (audioplayer.py [57] [58] [59]) [60] (canvas.py [61] [62] [63] [64]
-[65]) [66] (command.py [67]) [68] (eline.py) [69] (tline.py [70] [71]) [72]
-(window.py)) [73] (main.aux)
+[59] (audioplayer.py [60] [61] [62])) [63] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 10C3B938E25E43DBDA7E99E9F4413447;9689.
+(rerunfilecheck)             Checksum: F9F9E2C87F1F8F2B9DFF95446C2E5F8C;15344.
  ) 
 Here is how much of TeX's memory you used:
- 16798 strings out of 409617
- 317849 string characters out of 5779698
- 2167177 words of memory out of 5000000
- 38634 multiletter control sequences out of 15000+600000
+ 16624 strings out of 409617
+ 316055 string characters out of 5779698
+ 2135177 words of memory out of 5000000
+ 38474 multiletter control sequences out of 15000+600000
  559598 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,16n,110p,769b,2249s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,9n,110p,775b,2249s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (73 pages).
+Output written on main.pdf (63 pages).

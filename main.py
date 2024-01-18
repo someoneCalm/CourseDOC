@@ -90,7 +90,7 @@ if __name__ == "__main__":
         """
         command_buffer.add(
             CutCommand(
-                audio=audio, bcopy=True, start_index=player.start_index, end_index=player.end_index
+                audio=audio, bcopy=bcopy, start_index=player.start_index, end_index=player.end_index
             )
         )
         player.set_time_borders(0.0, audio.duration, True, False)
@@ -148,7 +148,8 @@ if __name__ == "__main__":
         """
         command_buffer.add(
                 FadeCommand(
-                    seconds=player.end - player.start, bout=bout, audio=audio, start_index=player.start_index, end_index=player.end_index
+                    seconds=player.end - player.start, bout=bout, audio=audio,
+                    start_index=player.start_index, end_index=player.end_index
                 )
             )
         player.set_time_borders(player.start, player.end, True, False)

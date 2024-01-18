@@ -25,7 +25,12 @@ class TimeLine(Frame):
         self.thread = Thread(target=self.movement, args=(self.event,))
         self.thread.start()
 
-        self.label = TimeLineLabel(master=self.master)
+        self.label = Label(master=self.master)
+        self.string = StringVar()
+        self.string.set("0.0")
+
+        self.label.place(x=5, y=330)
+        self.label.config(textvariable=self.string, width=0, bg="#1E1F22", fg="white")
 
     def start(self):
         """
@@ -71,7 +76,7 @@ class TimeLine(Frame):
         self.player.current = self.time
 
         if bchange:
-            self.label.set(self.x + 5, self.time)
+            self.set(self.x + 5, self.time)
 
     def movement(self, event):
         """
@@ -82,24 +87,13 @@ class TimeLine(Frame):
             sleep(self.interval)
             self.event.wait()
 
-            self.label.set(self.x + 5, self.time)
+            self.set(self.x + 5, self.time)
 
             if self.x >= self.e_line.x:
                 self.pause()
                 self.bend = True
             else:
                 self.change_position(self.x + 1, True)
-
-
-class TimeLineLabel(Label):
-    def __init__(self, **keyargs):
-        Label.__init__(self, **keyargs)
-
-        self.string = StringVar()
-        self.place(x=5, y=330)
-
-        self.config(textvariable=self.string, width=0, bg="#1E1F22", fg="white")
-        self.string.set("0.0")
 
     def set(self, x, text):
         """
@@ -109,4 +103,4 @@ class TimeLineLabel(Label):
         """
         dint, dloat = f"{text}".split(".")
         self.string.set(dint + "." + dloat[:1])
-        self.place(x=x)
+        self.label.place(x=x)

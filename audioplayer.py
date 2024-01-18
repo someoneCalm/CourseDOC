@@ -105,8 +105,7 @@ class AudioPlayer:
 
             with open(filename, "rb") as wave_sample:
                 params = wave_sample.getparams()
-                self.audio.name = filename.split(".")[-1]
-
+                self.audio.name = filename.split(".")[0]
                 self.audio.nchannels = params[0]
                 self.audio.sampwidth = params[1]
                 self.audio.framerate = params[2]
@@ -120,13 +119,16 @@ class AudioPlayer:
             self.set_time_borders(0.0, self.audio.duration, True, False)
 
             self.open_player()
-        except FileNotFoundError:
+        except:
             return
 
     def save_file(self):
         """
         Запись аудиофайла на компьютер.
         """
+        if not self.bactive:
+            return
+
         with open(self.audio.name + "_changed.wav", "wb") as wave_sample:
             params = (
                 self.audio.nchannels, self.audio.sampwidth, self.audio.framerate, self.audio.nframes,
@@ -139,6 +141,9 @@ class AudioPlayer:
         """
         Запись аудиофайла на компьютер с выбором названия и папки.
         """
+        if not self.bactive:
+            return
+
         file = asksaveasfile(mode="w", defaultextension=".wav", filetypes=[("WAVE files", "*.wav")])
 
         if file is None:

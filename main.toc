@@ -12,30 +12,52 @@
 \contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{14}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу программы}{14}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{15}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Нефункциональные требования к программной системе}{16}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Требования к надежности}{16}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Требования к программному обеспечению}{17}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Требования к аппаратному обеспечению}{17}{subsubsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.6}Требования к оформлению документации}{17}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Технический проект}{18}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{18}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{18}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Python}{18}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}TKinter}{18}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}NumPy}{19}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}PySDL}{19}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Ctypes}{19}{subsubsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов}{19}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Содержание информационных блоков. Основные сущности}{20}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Рабочий проект}{25}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Классы, используемые при разработке программы}{25}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Системное тестирование}{28}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Загрузка аудиофайла}{28}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Проигрыввание аудио}{29}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Выделение области}{30}{subsubsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.4}Редактирование аудиоданных}{31}{subsubsection.4.2.4}%
-\contentsline {subsubsection}{\numberline {4.2.5}Управление действиями}{37}{subsubsection.4.2.5}%
-\contentsline {subsubsection}{\numberline {4.2.6}Сохранение аудиофайла}{39}{subsubsection.4.2.6}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{41}{section*.33}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{41}{Item.16}%
-\contentsline {section}{ПРИЛОЖЕНИЕ А\ Фрагменты исходного кода программы}{44}{section*.35}%
+\contentsline {subsubsection}{\numberline {2.4.1}Вариант использования "<Загрузка">}{16}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Вариант использования "<Увеличение/уменьшение масштаба">}{17}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Вариант использования "<Выбор области">}{17}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Вариант использования "<Пуск">}{18}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Вариант использования "<Пауза">}{18}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Вариант использования "<Пропустить">}{18}{subsubsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.7}Вариант использования "<Копирование">}{19}{subsubsection.2.4.7}%
+\contentsline {subsubsection}{\numberline {2.4.8}Вариант использования "<Вставить">}{19}{subsubsection.2.4.8}%
+\contentsline {subsubsection}{\numberline {2.4.9}Вариант использования "<Заменить">}{19}{subsubsection.2.4.9}%
+\contentsline {subsubsection}{\numberline {2.4.10}Вариант использования "<Удаление">}{20}{subsubsection.2.4.10}%
+\contentsline {subsubsection}{\numberline {2.4.11}Вариант использования "<Обнуление">}{20}{subsubsection.2.4.11}%
+\contentsline {subsubsection}{\numberline {2.4.12}Вариант использования "<Понижение громкости">}{21}{subsubsection.2.4.12}%
+\contentsline {subsubsection}{\numberline {2.4.13}Вариант использования "<Эффект нарастания/затухания">}{21}{subsubsection.2.4.13}%
+\contentsline {subsubsection}{\numberline {2.4.14}Вариант использования "<Сохранение">}{21}{subsubsection.2.4.14}%
+\contentsline {subsection}{\numberline {2.5}Нефункциональные требования к программной системе}{22}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Требования к надежности}{22}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Требования к программному обеспечению}{22}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Требования к аппаратному обеспечению}{22}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Требования к оформлению документации}{22}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Технический проект}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{23}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{23}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Python}{23}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}TKinter}{23}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}NumPy}{24}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}PySDL}{24}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Ctypes}{24}{subsubsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.3}Основные компоненты}{24}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Main.py}{24}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Audio.py}{24}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Audioplayer.py}{25}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Canvas.py}{25}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Command.py}{25}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Eline.py}{25}{subsubsection.3.3.6}%
+\contentsline {subsubsection}{\numberline {3.3.7}Tline.py}{25}{subsubsection.3.3.7}%
+\contentsline {subsubsection}{\numberline {3.3.8}Window.py}{25}{subsubsection.3.3.8}%
+\contentsline {subsection}{\numberline {3.4}Диаграммы компонентов}{26}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Рабочий проект}{28}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Классы, используемые при разработке программы}{28}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Системное тестирование}{31}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Загрузка аудиофайла}{31}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Проигрыввание аудио}{32}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Выделение области}{33}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Редактирование аудиоданных}{34}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Управление действиями}{40}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}Сохранение аудиофайла}{42}{subsubsection.4.2.6}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{44}{section*.34}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{44}{Item.48}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Фрагменты исходного кода программы}{47}{section*.36}%

@@ -11,7 +11,7 @@ class EdgeLine(Frame):
     def change_position(self, x):
         """
         Смена позиции линии.
-        :param x: коррдината x.
+        :param x: координата x.
         """
         self.x = x
         self.place(x=self.x)
